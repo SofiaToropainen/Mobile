@@ -4,9 +4,10 @@ Users can add the chores they have complited and view chores complited by other 
 The application also generates statistics based on the completed chores.
 
 ## Installation
-1. Clone the git to your Android Studio. 
-2. Use emulator which has Google Play support. For example Pixel 4 API 33.
-3. Make sure the emulator has internet access, otherwise Firebase does not work. 
+1. Clone git repository https://github.com/SofiaToropainen/Mobile.git
+2. Clone the ChoreApp to Android Studio. 
+3. Use emulator which has Google Play support. For example Pixel 4 API 33.
+4. Make sure the emulator has internet access, otherwise Firebase does not work. 
 
 ## Usage
 1. Sign up if you have not done so already.
