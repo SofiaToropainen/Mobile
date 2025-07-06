@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666144832173",
+    "project_id": "chore-app-7644f",
+    "storage_bucket": "chore-app-7644f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666144832173:android:46db01ae1915f5cba42424",
+        "android_client_info": {
+          "package_name": "com.example.choreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm-NFsuB8DR6_RrEIkmJ0B8UQy_rcUpgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

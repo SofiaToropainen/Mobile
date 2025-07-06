@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="8dp" >
+
+        <TextView
+            android:id="@+id/docUserTextView"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:text="User"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/docChoreTextView"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="Chore"
+            android:layout_marginStart="30dp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/docScoreTextView"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:text="Points"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="#61CE65" />
+
+</LinearLayout>
