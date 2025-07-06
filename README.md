@@ -4,6 +4,10 @@ Users can add the chores they have complited and view chores complited by other 
 The application also generates statistics based on the completed chores.
 
 ## Installation
+1. Clone the git to your Android Studio. 
+2. Use emulator which has Google Play support. For example Pixel 4 API 33.
+3. Make sure the emulator has internet access, otherwise Firebase does not work. 
+
 ## Usage
 1. Sign up if you have not done so already.
 - If one of your family members has already created a family code and shared it with you, use that code to join the family.
