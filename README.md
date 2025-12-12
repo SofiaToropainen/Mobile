@@ -2,10 +2,6 @@
 
 A mobile application designed to make chore-sharing easier within families. Users can add the chores they complete, see chores done by others, and view statistics based on completed tasks.
 
-# Example videos of Chore Application running
-- Download demo video, joining to already created family: (https://github.com/SofiaToropainen/Chore-Application/releases/download/v1.0.0/choreapp_english_oldfamily.1.webm)
-- Download demo video, creating a new family group: (https://github.com/SofiaToropainen/Chore-Application/releases/download/v1.0.1/choreapp_english_newfamily.3.webm)
-
 # Features
 - Add and track personal chores.
 - View chores completed by other family members.
