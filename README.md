@@ -21,7 +21,7 @@ A mobile application designed to make chore-sharing easier within families. User
 # Installation
 **1. Clone repository:**
 
-- git clone https://github.com/SofiaToropainen/Chore-Application.git
+- https://github.com/SofiaToropainen/Mobile.git
 
 **2. Open the project in Android Studio:**
 - Select "Open an existing project" and navigate to the cloned folder.
